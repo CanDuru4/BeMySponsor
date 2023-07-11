@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://canduru.net">
-    <img src="https://user-images.githubusercontent.com/73294429/186248765-a5b646f6-77fe-4bea-9638-50bb746c01f2.png" alt="Logo" width="221" height="90">
+    <img src="https://github.com/CanDuru4/BeMySponsor/assets/73294429/bd08fcad-6e69-4757-bf7d-7b5ffa5bcb69" alt="Logo" width="221" height="90">
   </a>
 </p>
 
